@@ -1,7 +1,5 @@
 #!/usr/local/bin/python3
 
-from collections import OrderedDict
-
 print("# my_first_calculator.py")
 print("# TODO: make it work for floating point numbers too")
 print("")
